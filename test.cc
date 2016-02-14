@@ -6,6 +6,7 @@
 
 // g++ test.cc -o test -std=c++11 -O3 -Wall
 // ./test > test.ppm
+// convert test.ppm test.png
 
 // TODO paralelize
 // TODO some unitVector() calls might be redundant
